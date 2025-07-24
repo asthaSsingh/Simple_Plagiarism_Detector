@@ -1,0 +1,2 @@
+A plagiarism checker works by comparing submitted text against a vast database of content, including web pages and academic databases, to identify instances of similarity. These tools then highlight potential plagiarism, allowing writers to review and address any issues by citing sources or rewriting the content.
+the act of copying another person’s ideas, words or work and pretending they are your own; something that has been copied in this way
